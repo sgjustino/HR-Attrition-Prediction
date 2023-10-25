@@ -8,3 +8,4 @@
 * Study notes and assignment materials in CSCA5622 as reference for model building.
 * Papers cited in notebook for attrition-related research.
 * Statquest on youtube for the lessons on machine learning.
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). New York: springer.
